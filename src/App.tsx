@@ -62,9 +62,7 @@ class App extends Component<{}, IState> {
     render() {
         return (
             <div className="App">
-                <header className="App-header">
-                    Bank & Merge Co Task 2
-                </header>
+                <header className="App-header">  Bank & Merge Co Task 2    </header>
                 <div className="App-content">
                     <button className="btn btn-primary Stream-button"
                         // when button is click, our react app tries to request
